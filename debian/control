@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 Homepage: http://www.deepin.com/
 
-Package: deepin-fpapp-com.deepin.music
+Package: deepin-fpapp-com.deepin.imageviewer
 Architecture: amd64
 Depends: ${misc:Depends}, flatpak, deepin-fprt-com.deepin.platform-15.4.1
 Description: deepin flatpak app com.deepin.ImageViewer
