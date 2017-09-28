@@ -159,7 +159,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/linuxdeepin/deepin-image-viewer",
-                    "branch": "5fb982721e6456a62d026d5b6d255b15ddbeb2f7"
+                    "branch": "7b3cdfda5a64cc80049f09b5bddf22435dda0411"
                 },
 				{
 					"type": "script",
